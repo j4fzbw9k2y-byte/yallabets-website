@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "match_name": "Chelsea vs Arsenal",
+    "match_time": "Nov 15, 20:00 GMT",
+    "prediction": "Chelsea to Win",
+    "odds": "2.20",
+    "confidence": 4,
+    "league": "Premier League",
+    "result": "won",
+    "profit_loss": 1.20,
+    "result_date": "2024-11-15T22:00:00Z"
+  },
+  {
+    "id": 2,
+    "match_name": "PSG vs Marseille",
+    "match_time": "Nov 14, 21:00 GMT",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75",
+    "confidence": 5,
+    "league": "Ligue 1",
+    "result": "won",
+    "profit_loss": 0.75,
+    "result_date": "2024-11-14T23:00:00Z"
+  },
+  {
+    "id": 3,
+    "match_name": "Inter Milan vs Juventus",
+    "match_time": "Nov 13, 19:45 GMT",
+    "prediction": "Draw",
+    "odds": "3.20",
+    "confidence": 3,
+    "league": "Serie A",
+    "result": "lost",
+    "profit_loss": -1.00,
+    "result_date": "2024-11-13T21:45:00Z"
+  },
+  {
+    "id": 4,
+    "match_name": "Atletico Madrid vs Sevilla",
+    "match_time": "Nov 12, 20:00 GMT",
+    "prediction": "Atletico to Win",
+    "odds": "1.65",
+    "confidence": 4,
+    "league": "La Liga",
+    "result": "won",
+    "profit_loss": 0.65,
+    "result_date": "2024-11-12T22:00:00Z"
+  },
+  {
+    "id": 5,
+    "match_name": "Liverpool vs Manchester City",
+    "match_time": "Nov 11, 16:30 GMT",
+    "prediction": "Both Teams to Score",
+    "odds": "1.55",
+    "confidence": 5,
+    "league": "Premier League",
+    "result": "won",
+    "profit_loss": 0.55,
+    "result_date": "2024-11-11T18:30:00Z"
+  },
+  {
+    "id": 6,
+    "match_name": "Borussia Dortmund vs RB Leipzig",
+    "match_time": "Nov 10, 17:30 GMT",
+    "prediction": "Over 3.5 Goals",
+    "odds": "2.10",
+    "confidence": 4,
+    "league": "Bundesliga",
+    "result": "won",
+    "profit_loss": 1.10,
+    "result_date": "2024-11-10T20:00:00Z"
+  },
+  {
+    "id": 7,
+    "match_name": "AC Milan vs Napoli",
+    "match_time": "Nov 9, 19:45 GMT",
+    "prediction": "AC Milan to Win",
+    "odds": "2.40",
+    "confidence": 3,
+    "league": "Serie A",
+    "result": "won",
+    "profit_loss": 1.40,
+    "result_date": "2024-11-09T21:45:00Z"
+  },
+  {
+    "id": 8,
+    "match_name": "Tottenham vs Aston Villa",
+    "match_time": "Nov 8, 20:00 GMT",
+    "prediction": "Tottenham to Win",
+    "odds": "1.80",
+    "confidence": 4,
+    "league": "Premier League",
+    "result": "won",
+    "profit_loss": 0.80,
+    "result_date": "2024-11-08T22:00:00Z"
+  },
+  {
+    "id": 9,
+    "match_name": "Barcelona vs Real Sociedad",
+    "match_time": "Nov 7, 21:00 GMT",
+    "prediction": "Barcelona -1.5",
+    "odds": "1.95",
+    "confidence": 4,
+    "league": "La Liga",
+    "result": "won",
+    "profit_loss": 0.95,
+    "result_date": "2024-11-07T23:00:00Z"
+  },
+  {
+    "id": 10,
+    "match_name": "Bayern Munich vs Union Berlin",
+    "match_time": "Nov 6, 19:30 GMT",
+    "prediction": "Bayern to Win & Over 2.5",
+    "odds": "1.70",
+    "confidence": 5,
+    "league": "Bundesliga",
+    "result": "won",
+    "profit_loss": 0.70,
+    "result_date": "2024-11-06T21:30:00Z"
+  }
+]

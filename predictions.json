@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "match_name": "Manchester United vs Liverpool",
+    "match_time": "Today 20:00 GMT",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85",
+    "confidence": 4,
+    "league": "Premier League",
+    "analysis": "Both teams have strong attacking records. United scored 10 goals in last 4 home games, Liverpool 12 in last 4 away games.",
+    "is_vip": 0,
+    "status": "published",
+    "created_at": "2024-11-18T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "match_name": "Real Madrid vs Barcelona",
+    "match_time": "Tomorrow 21:00 GMT",
+    "prediction": "Real Madrid to Win",
+    "odds": "2.10",
+    "confidence": 5,
+    "league": "La Liga",
+    "analysis": "Real Madrid unbeaten at home this season. Barcelona missing 3 key defenders. Home advantage crucial in El Clasico.",
+    "is_vip": 1,
+    "status": "published",
+    "created_at": "2024-11-18T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "match_name": "Bayern Munich vs Borussia Dortmund",
+    "match_time": "Saturday 18:30 GMT",
+    "prediction": "Both Teams to Score",
+    "odds": "1.70",
+    "confidence": 4,
+    "league": "Bundesliga",
+    "analysis": "Der Klassiker always delivers goals. Both teams scored in last 8 meetings. High-intensity attacking football expected.",
+    "is_vip": 0,
+    "status": "published",
+    "created_at": "2024-11-18T12:00:00Z"
+  }
+]
